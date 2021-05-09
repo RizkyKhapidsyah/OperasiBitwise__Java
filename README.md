@@ -1,6 +1,6 @@
 # OperasiBitwise__Java
 
-Fundamental Java: Operasi Bitwise Pada Pemrograman Java. IDE: NetBeans<br><br>
+Fundamental Java: Operasi Bitwise Pada Pemrograman Java. IDE: NetBeans.<br><br>
 <img src ="https://github.com/RizkyKhapidsyah/OperasiBitwise__Java/blob/master/result/Capture001.PNG"><br><br>
 <img src ="https://github.com/RizkyKhapidsyah/OperasiBitwise__Java/blob/master/result/Capture002.PNG"><br><br>
 
